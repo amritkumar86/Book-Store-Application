@@ -1,6 +1,6 @@
-# BookFetch App
+# BookStore AppLication
 
-BookFetch is an Android application that fetches book details from the Google Books API using **Retrofit Library** and displays them to the user. It also uses the **Picasso Library** to obtain and render book cover images.
+BookStore is an Android application that fetches book details from the Google Books API using **Retrofit Library** and displays them to the user. It also uses the **Picasso Library** to obtain and render book cover images.
 
 ## Features
 
